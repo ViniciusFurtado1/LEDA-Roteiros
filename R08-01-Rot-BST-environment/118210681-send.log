@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2020-11-15T16:13:11.289-0300</date>
+  <logger>VINICIUS FURTADO DE HOLANDA SA</logger>
+  <level>FINE</level>
+  <message>File 118210681-VINICIUS FURTADO DE HOLANDA SA.zip was received. It was sent by VINICIUS FURTADO DE HOLANDA SA from IP 192.168.1.10 at 15-11-2020 16*13*11</message>
+</record>
